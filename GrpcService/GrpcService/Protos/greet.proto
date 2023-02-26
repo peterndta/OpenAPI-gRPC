@@ -1,6 +1,6 @@
 syntax = "proto3";
 import "google/api/annotations.proto";
-option csharp_namespace = "gRPCDemo";
+option csharp_namespace = "GrpcService";
 
 package greet;
 
